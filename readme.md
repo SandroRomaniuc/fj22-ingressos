@@ -1,3 +1,3 @@
-3ª tentativa de criar red ok
+Projeto sistema de cinemas em Java
 
-Hollo wold
+autor Sandro
